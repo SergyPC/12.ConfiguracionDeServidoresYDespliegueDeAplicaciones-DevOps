@@ -4,21 +4,33 @@ Cada alumno deberá desplegar en un servidor su desarrollo para la práctica del
 
 El alumno podrá elegir la plataforma de hosting donde desplegar dicha práctica (Azure, AWS, etc.).
 
-La entrega de la práctica será a través del formulario de entrega de prácticas, en el que se deberá
-indicar la URL del repositorio donde tienen el código de la solución de la práctica del curso de Programación Backend con Node. Dentro de este repositorio deberá existir un archivo README.md en el cual deberán indicar la URL donde está desplegada la práctica para que pueda ser evaluada.
+La entrega de la práctica será a través del formulario de entrega de prácticas, en el que se deberá indicar la URL del repositorio donde tienen el código de la solución de la práctica del curso de Programación Backend con Node. Dentro de este repositorio deberá existir un archivo README.md en el cual deberán indicar la URL donde está desplegada la práctica para que pueda ser evaluada.
+
+<br />
 
 ---
+
+Repositorio de la práctica React:
+https://github.com/SergyPC/07.FundamentosReact
+
+Repositorio de la práctica Backend con Node:
+https://github.com/SergyPC/08.BackendNodeJS
+
+---
+
+<br />
 
 **Quedaría montado de la siguiente manera:**
 
 - Práctica React - MegaANUNCIOS:
     <br />
     [http://35.181.61.77/](http://35.181.61.77/)
+
     ```shell
 	UserName: usu1
 	Password: pas1
     ```
-    <br />
+    
 - Práctica Node - NodePOP:
     <br />
     [http://ec2-35-181-61-77.eu-west-3.compute.amazonaws.com/](http://ec2-35-181-61-77.eu-west-3.compute.amazonaws.com/)
@@ -60,8 +72,8 @@ Ejercicio 2:
 [http://35.181.61.77/](http://35.181.61.77/)
 
 ```shell
-Login:
+Login de prueba:
 
-    UserName: usu1
-    Password: pas1
+  - UserName: usu1
+  - Password: pas1
 ```
